@@ -436,7 +436,7 @@ const bgY = useTransform(scrollY, [500, 2200], [-80, 80]);
     {/* Bakgrund */}
     <div
       className="absolute inset-0 z-0 bg-cover bg-center opacity-25"
-      style={{ backgroundImage: "url('/Kort-vibe.jpeg')" }}
+      style={{ backgroundImage: "url('/kort-vibe.jpeg')" }}
     />
     <div className="absolute inset-0 z-0 bg-black/65" />
     <div className="absolute inset-0 z-0 bg-[radial-gradient(circle_at_75%_45%,rgba(212,175,55,0.22),rgba(5,5,5,0.9)_42%,rgba(0,0,0,1)_100%)]" />
@@ -495,7 +495,7 @@ const bgY = useTransform(scrollY, [500, 2200], [-80, 80]);
   <div
     className="absolute inset-0 z-0 bg-cover bg-center"
     style={{
-      backgroundImage: "url('/Kort-vibe.jpeg')",
+      backgroundImage: "url('/kort-vibe.jpeg')",
       backgroundAttachment: "fixed",
     }}
   />
@@ -888,7 +888,7 @@ const bgY = useTransform(scrollY, [500, 2200], [-80, 80]);
 >
   <div
     className="absolute inset-0 bg-cover bg-center opacity-70"
-    style={{ backgroundImage: "url('/Kontakt-1.jpeg')" }}
+    style={{ backgroundImage: "url('/kontakt-1.jpeg')" }}
   />
   <div className="absolute inset-0 bg-black/55" />
 
