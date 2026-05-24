@@ -463,11 +463,9 @@ const bgY = useTransform(scrollY, [500, 2200], [-80, 80]);
             Nya kunder
           </span>
           <span className="rounded-full border border-white/20 bg-white/10 px-3 py-2 sm:px-4">
-            Gäller under våren
+            Gäller under sommaren
           </span>
-          <span className="rounded-full border border-white/20 bg-white/10 px-3 py-2 sm:px-4">
-            Vid köp av paket
-          </span>
+          
         </div>
 
         <div className="mt-7 flex flex-col gap-3 sm:flex-row sm:flex-wrap md:mt-9">
