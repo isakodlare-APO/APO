@@ -192,16 +192,7 @@ const bgY = useTransform(scrollY, [500, 2200], [-80, 80]);
   };
 
   const handleContactSubmit = async (event) => {
-    const response = await fetch("/api/contact", {
-  method: "POST",
-  headers: {
-    "Content-Type": "application/json",
-  },
-  body: JSON.stringify({
-    ...contactForm,
-    captchaToken,
-  }),
-});
+    
     event.preventDefault();
     if (!captchaToken) {
   setContactStatus({
