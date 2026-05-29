@@ -144,7 +144,7 @@ export default function Cookiepolicy() {
             </nav>
 
             <p className="mt-6 text-sm text-stone-500">
-              © {new Date().getFullYear()} Alnarps Potential
+              © {new Date().getFullYear()} Webbutveckling & design av Isak Odlare
             </p>
           </div>
         </div>
