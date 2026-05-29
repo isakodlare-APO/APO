@@ -23,11 +23,11 @@ const TEAM_MEMBERS = [
       "Shannon arbetar med trädgårdsdesign där form, känsla och funktion får mötas på ett naturligt sätt.",
     qualifications: [
       "Examinerad trädgårdsingenjör med inriktning design",
-      "Studerar sin master på Malmö Universitet",
+      "Studerar sin master på Malmö Universitet inom stadsplanering",
       "Arbetar med växtval, form och helhetsgestaltning",
     ],
     text:
-      "Shannon tycker om att skapa trädgårdar som känns både genomtänkta och levande. Hennes arbete utgår från kundens behov, platsens förutsättningar och en stark känsla för helhet. Hon brinner särskilt för färg, struktur och miljöer som håller över tid.",
+      "Shannon tycker om att skapa trädgårdar som känns både genomtänkta och levande. Hennes arbete utgår från kundens behov, platsens förutsättningar och en stark känsla för Feng shui. Hennes mål är att kombinera olika kulturer för att utveckla en unik blanding mellan alla stads & trädgårdsmiljöer som hon har upplevt genom sin resa, bland annat Kina, Portugal och Sverige. Det ger en häftig fusion av form, färg och funktion.",
   },
   {
     slug: "dastin-jersey",
