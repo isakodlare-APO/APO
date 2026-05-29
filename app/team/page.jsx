@@ -31,7 +31,7 @@ const TEAM_MEMBERS = [
   },
   {
     slug: "dastin-jersey",
-    name: "Dastin Jerzey",
+    name: "Dastin Jerzy",
     role: "Trädgårdsingenjör Design",
     image: "/dastin-3.jpeg",
     intro:
